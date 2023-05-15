@@ -38,7 +38,7 @@ const EditItinerary = (props) => {
               name="imgUrl"
               id="imgUrl-input"
               value={formData.imgUrl}
-              placeholder="Image Address URL"
+              placeholder="Add Image Address URL"
               onChange={handleChange}
             />
             <label htmlFor="budget">Budget</label>
